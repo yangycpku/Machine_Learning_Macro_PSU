@@ -1,7 +1,7 @@
 # Tutorial 1: DeepHAM on Google Colab
 
 Tutorial for **Lecture 1, Deep Learning for Solving Heterogeneous Agents Models**, of the Penn State
-Mini-Course on Machine Learning for Dynamic Economic Models (September 2026).
+Mini-Course on Deep Learning and Heterogeneous Agent Macroeconomics (September 2026).
 
 DeepHAM solves heterogeneous-agent models with aggregate shocks by (i) representing the
 wealth distribution with a small number of **generalized moments**, basis functions learned

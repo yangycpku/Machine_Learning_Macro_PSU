@@ -1,10 +1,10 @@
-# Mini-Course on Machine Learning for Dynamic Economic Models (2026)
+# Mini-Course on Deep Learning and Heterogeneous Agent Macroeconomics (2026)
 
 <p align="center">
   <img src="psu_logo.png" alt="Penn State" height="60">
 </p>
 
-This is the teaching repository for the mini-course **Machine Learning for Dynamic Economic Models**, taught at the **Penn State University Department of Economics** in **September 2026**.
+This is the teaching repository for the mini-course **Deep Learning and Heterogeneous Agent Macroeconomics**, taught at the **Penn State University Department of Economics** in **September 2026**.
 
 **Instructor:** [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/home) — University of Zurich and Swiss Finance Institute · <yucheng.yang@uzh.ch>
 
