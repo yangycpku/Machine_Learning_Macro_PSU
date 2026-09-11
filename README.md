@@ -4,7 +4,7 @@
   <img src="psu_logo.png" alt="Penn State" height="60">
 </p>
 
-This is the teaching repository for the mini-course **Deep Learning and Heterogeneous Agent Macroeconomics**, taught at the **Penn State University Department of Economics** in **September 2026**.
+This is the teaching repository for the mini-course **Deep Learning and Heterogeneous Agent Macroeconomics**, taught at the **Penn State University Department of Economics** on **September 15, 2026**.
 
 **Instructor:** [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/home) — University of Zurich and Swiss Finance Institute · <yucheng.yang@uzh.ch>
 
@@ -12,12 +12,12 @@ Lecture slides, code, and readings are posted here as the course approaches.
 
 ## Schedule
 
-Dates and rooms to be announced.
+Both lectures take place on **Tuesday, September 15, 2026**, in **808 Ford Building**:
 
-| Lecture | Date | Room |
+| Lecture | Time | Room |
 |---|---|---|
-| 1. Deep Learning for Solving Heterogeneous Agents Models (DeepHAM) | TBD | TBD |
-| 2. Deep Learning for Continuous Time Models and Structural Estimation (DeepSAM) | TBD | TBD |
+| 1. Deep Learning for Solving Heterogeneous Agents Models (DeepHAM) | 3:05–4:05 PM | 808 Ford Building |
+| 2. Deep Learning for Continuous Time Models and Structural Estimation (DeepSAM) | 4:15–5:15 PM | 808 Ford Building |
 
 - **[Reading List (PDF)](Reading_List.pdf)** — suggested preparation plus core and background readings
 
@@ -30,7 +30,7 @@ The course covers two deep-learning methods for solving heterogeneous agent mode
 | # | Lecture | Slides | Method | Core reading | Code |
 |---|---------|:---:|--------|--------------|------|
 | 1 | **Deep Learning for Solving Heterogeneous Agents Models** (DeepHAM) | [PDF](Lectures/Lecture1_slides_DeepHAM.pdf) | Use neural networks to parameterize high-dimensional value and policy functions in heterogeneous agent models, with the cross-sectional distribution represented by *learned generalized moments*; trained along simulated paths. | [Han, Yang & E (2026)](Readings/DeepHAM_paper.pdf), *Quantitative Economics* | [Tutorial 1: DeepHAM on Colab](Tutorials/Tutorial1) |
-| 2 | **Deep Learning for Continuous Time Models and Structural Estimation** (DeepSAM) | [PDF](Lectures/Lecture2_slides_Continuous_Time_Structural_Estimation.pdf) | Search and matching with two-sided heterogeneity in continuous time: general equilibrium as a high-dimensional PDE with the distribution as a state variable, solved globally by deep learning and estimated via SMM. | [Payne, Rebei & Yang (2026)](Readings/DeepSAM_paper.pdf), *conditionally accepted, Econometrica* | *Coming soon* |
+| 2 | **Deep Learning for Continuous Time Models and Structural Estimation** (DeepSAM) | [PDF](Lectures/Lecture2_slides_Continuous_Time_Structural_Estimation.pdf) | Search and matching with two-sided heterogeneity in continuous time: general equilibrium as a high-dimensional PDE with the distribution as a state variable, solved globally by deep learning and estimated via SMM. | [Payne, Rebei & Yang (2026)](Readings/DeepSAM_paper.pdf), *conditionally accepted, Econometrica* | [Tutorial 2: DeepSAM on Colab](Tutorials/Tutorial_DeepSAM) |
 
 Materials: [`Lectures/`](Lectures) (slides) · [`Tutorials/`](Tutorials) (code walkthroughs) · [`Readings/`](Readings) (papers).
 
